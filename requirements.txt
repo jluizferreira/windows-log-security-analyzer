@@ -1,0 +1,6 @@
+# Windows Log Security Analyzer — Dependências
+# Instale com: pip install -r requirements.txt
+
+# pywin32: acesso à API do Windows (Event Log, Registry, etc.)
+# Requer Windows — não funciona em Linux/macOS
+pywin32==311
